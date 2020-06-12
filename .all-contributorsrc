@@ -1,0 +1,37 @@
+{
+  "projectName": "examples",
+  "projectOwner": "node",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "bnb",
+      "name": "Tierney Cyren",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/502396?v=4",
+      "profile": "https://bnb.im",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "mcollina",
+      "name": "Matteo Collina",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52195?v=4",
+      "profile": "https://github.com/mcollina",
+      "contributions": [
+        "infra",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
